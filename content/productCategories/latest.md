@@ -1,0 +1,4 @@
+---
+template: ProductIndex
+title: Latest
+---
